@@ -17,7 +17,7 @@
 
 ### Robot
 #### Logic
-- [ROS-FLASK SERVER](https://github.com/linukc/strategic_node)
+- [ROS-FLASK SERVER](https://github.com/linukc/strategic_node) **todo: репо приватный, что в нём?**
 
 - Trajectory planning: 
   - [Frontier-based exploration + Планировщик](https://github.com/alstar8/Husky_ddppo)
