@@ -46,6 +46,6 @@ Http сервер с клиентом для хаски через njrok, кот
 https://github.com/danissomo/husky_status_server
 
 # Список дел:
-- [] fill the missing codes links
-- [] create the deployment tutorial
-  - [] automate the deployment where possible
+- [ ] fill the missing codes links
+- [ ] create the deployment tutorial
+  - [ ] automate the deployment where possible
