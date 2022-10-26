@@ -28,7 +28,10 @@
   - [Лидарная локализация: a_lego_loam](https://gitlab.com/sdbcs-nio3/itl_mipt/slam/alg/a_lego_loam) **todo: репо приватный, что в нём?**
   - [Lol](https://gitlab.com/sdbcs-nio3/itl_mipt/slam/alg/lol) **todo: репо приватный, что в нём?**
 - Move to point/object [**todo**]
-- Door opening [[контроллер Мухаммада]](https://github.com/MuhammadAlhaddad/door_operations)
+- Door opening 
+  [[контроллер Мухаммада]](https://github.com/MuhammadAlhaddad/door_operations)
+  [[открыватель Даниила]](https://github.com/danissomo/door_open)
+  [[распознавалка ручек Даниила]](https://github.com/danissomo/keypoint_regression)
 - Door traversal  [**todo**]
 
 #### Devices
